@@ -4,7 +4,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Astronautas
+# Astronaut
 
 _website design project_
 
@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/44-grupe-astronautas/
+Site published at: https://github.com/Vilteee/2-astronaut
 
 Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
 
@@ -24,7 +24,7 @@ Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404
 -   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -   favicon
 -   fixed-width content
--   `<header>`, `<footer>`
+-   `<header>`, `<main>`,  `<footer>`
 -   FontAwesome font/icons
 -   HTML entities
 -   pseudo-elements
