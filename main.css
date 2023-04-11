@@ -1,0 +1,20 @@
+header,
+main,
+footer {
+    width:800px;
+    margin-left:calc((50%-400px) /2) ;
+}
+
+header {
+margin-top: 100px;
+background-color: rgb(223, 223, 188);
+}
+
+main {
+    background-color:rgb(194, 235, 194);
+}
+
+footer {
+ background-color:rgb(225, 168, 168);
+    
+}
