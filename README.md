@@ -1,2 +1,0 @@
-
-No other resources.
