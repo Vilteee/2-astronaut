@@ -74,55 +74,10 @@ font-size: 18px;
 .description {
 
 }
-.button-group {
-    display: flex;
-    flex-wrap: wrap;
-    font-size: 18px;
-    gap: 1em;
-}
-.button {
-    display: inline-block;
-    padding: 18px 45px;
-    background-color:#543379;
-    color:white;
-    font-size: 18px; 
-    line-height: 18px;
-    border-radius: 40px;
-    border: 2px #543379;
-    text-decoration: none;
-    text-transform: uppercase;
-    user-select: none;
 
-}
-
-button:hover{
-    background-color:#fff;
-    color: #543379;
-}
 .right-column{
     width: 55%;
     margin-right: -20px;
     
 }
 
-.socials {
-    display: flex;
-    flex-wrap: wrap;
-    font-size: 50px;
-    gap: 0.5em;
-
-}
-.socials > .social-link {
-    color: #999;
-    text-decoration: none;
-    font-size: 20px;
-    line-height: 50px;
-    width: 1em;
-    height: 1em;
-   
-}
-.socials > .social-link:hover {
-    color: #55337a;
-    margin: -0.25em;
-    font-size: 1em;
-}
